@@ -2,17 +2,19 @@
 
 ## Horários
 Data: 16-07-2020
+<br>
 Horário: 10h - 12h
 
 ## Apresentação
-Google Presentation: https://docs.google.com/presentation/d/12yra_kP_0U_QvTWWJgdT-u9weewWBDpH0FrDqYvOUS0/edit?usp=sharing
-PDF: 
+Google Slides: https://docs.google.com/presentation/d/12yra_kP_0U_QvTWWJgdT-u9weewWBDpH0FrDqYvOUS0/edit?usp=sharing 
+<br>
+PDF: https://github.com/mauriciovancine/r-webinar-enm/blob/master/00_apresentacao/apres_webinar_enm_esalq.pdf
 
 ## Script
-Script no R: 
+Script no R: https://github.com/mauriciovancine/r-webinar-enm/blob/master/01_script/script_apres_webinar_enm_esalq.R
 
 ## Pacotes à serem instalados
-```{r}
+```r
 # packages
 if(!require(here)) install.packages("here")
 if(!require(tidyverse)) install.packages("tidyverse")
